@@ -1,0 +1,13 @@
+/*Atencion de procesos por orden de llegada
+Guardar en una estructura FIFO
+Atencion de proceso hasta terminarlo
+300 ciclos
+En cada uno 39% de probabilidad de obtener nuevo proceso
+Proceso entre 4 y 14 ciclos para su atención
+Decrementación del ciclo del proceso
+
+-Mostrar en consola
+*Cuantos ciclos estuvo vacía la cola
+*Cuantos procesos se atendieron completamente
+*Cuantos procesos pendientes, y suma de sus ciclos
+*/
